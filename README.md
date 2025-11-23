@@ -1,6 +1,6 @@
 ## ❗THIS IS THE TEXT-VERSION BETA FOR THE UPCOMING VISUAL NOVEL❗
 
-***Cursed To Be Chained*** is a **short text-based choose-your-own-adventure RPG demonic noir game** set in Miragem City, about a young woman called Rei on a quest to free the Chained Prince of the Shadows from the tower he's been imprisoned in, to get him to free _her_ from the curse that binds her soul to this city.
+***When Death Calls*** is a **short text-based choose-your-own-adventure RPG demonic noir game** set in Miragem City, about a young woman called Rei on a quest to free the Chained Prince of the Shadows from the tower he's been imprisoned in, to get him to free _her_ from the curse that binds her soul to this city.
 
 ◣━━━━━━━━━━━━━━━◢
 
@@ -24,12 +24,12 @@ TWs include:
 Looking for beta testers to play the game!
 
 #### TO PLAY:
-1. Navigate to [toffeeangel/Cursed-To-Be-Chained](https://github.com/toffeeangel/Cursed-To-Be-Chained)
+1. Navigate to [toffeeangel/When-Death-Calls](https://github.com/toffeeangel/When-Death-Calls)
 2. Make sure you have Node.js installed.
 3. Above the list of files, click <> **Code**.
 4. Click **Download ZIP**.
-5. Extract the files from the ZIP to a new folder and open the file called **ctbc.js** in Visual Studio Code.
-6. Open a new terminal and run: **node ctbc.js**
+5. Extract the files from the ZIP to a new folder and open the file called **wdc.js** in Visual Studio Code.
+6. Open a new terminal and run: **node wdc.js**
 7. Start playing!
 
 ◣━━━━━━━━━━━━━━━◢
